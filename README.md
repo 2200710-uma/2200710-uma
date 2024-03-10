@@ -7,7 +7,9 @@ Frontend Developer
 I am a frontend developer who loves react!
 
 * 🌍  I'm based in UK
+* 🖥️  See my portfolio at [MyPortfolio](http://amu.com)
 * ✉️  You can contact me at [s2200710@students.ncl.ac.uk](mailto:s2200710@students.ncl.ac.uk)
+* 🚀  I'm currently working on [CAFE WESTOE App](http://cafewestoe.com)
 * 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I Am Batman, Tell Everyone
@@ -16,7 +18,7 @@ I am a frontend developer who loves react!
 
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
 
